@@ -1,0 +1,11 @@
+{
+  "FSV830": {
+    "FSV830 - Standard": {
+      "Base Model": { "hp": 8000, "buffs": "" },
+      "Apex 5": { "hp": 11000, "buffs": "+10 support, +2 hp upgrades" },
+      "Apex 10": { "hp": 14000, "buffs": "+15 support, +3 hp upgrades" },
+      "Apex 15": { "hp": 17000, "buffs": "+20 support, +4 hp upgrades" },
+      "Apex 20": { "hp": 20000, "buffs": "+25 support, +5 hp upgrades" }
+    }
+  }
+}
