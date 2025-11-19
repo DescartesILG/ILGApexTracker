@@ -1,0 +1,18 @@
+{
+  "Mare Nubium": {
+    "Mare Nubium A - Assault Type": {
+      "Base Model": { "hp": 6000, "buffs": "" },
+      "Apex 5": { "hp": 9000, "buffs": "+10 attack, +2 hp upgrades" },
+      "Apex 10": { "hp": 12000, "buffs": "+15 attack, +3 hp upgrades" },
+      "Apex 15": { "hp": 14500, "buffs": "+20 attack, +4 hp upgrades" },
+      "Apex 20": { "hp": 17000, "buffs": "+25 attack, +5 hp upgrades" }
+    },
+    "Mare Nubium B - Anti-Aircraft Type": {
+      "Base Model": { "hp": 5800, "buffs": "" },
+      "Apex 5": { "hp": 8700, "buffs": "+10 AA, +2 hp upgrades" },
+      "Apex 10": { "hp": 11500, "buffs": "+15 AA, +3 hp upgrades" },
+      "Apex 15": { "hp": 14000, "buffs": "+20 AA, +4 hp upgrades" },
+      "Apex 20": { "hp": 16500, "buffs": "+25 AA, +5 hp upgrades" }
+    }
+  }
+}
