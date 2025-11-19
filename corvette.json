@@ -1,0 +1,11 @@
+{
+  "S-Levy9": {
+    "S-Levy9 - Standard": {
+      "Base Model": { "hp": 5000, "buffs": "" },
+      "Apex 5": { "hp": 7500, "buffs": "+10 attack, +2 hp upgrades" },
+      "Apex 10": { "hp": 9500, "buffs": "+15 attack, +3 hp upgrades" },
+      "Apex 15": { "hp": 11500, "buffs": "+20 attack, +4 hp upgrades" },
+      "Apex 20": { "hp": 14000, "buffs": "+25 attack, +5 hp upgrades" }
+    }
+  }
+}
