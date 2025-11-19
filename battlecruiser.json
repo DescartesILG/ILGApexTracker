@@ -1,0 +1,11 @@
+{
+  "Spear of Uranus": {
+    "Spear of Uranus - Standard": {
+      "Base Model": { "hp": 9000, "buffs": "" },
+      "Apex 5": { "hp": 13000, "buffs": "+15 attack, +2 hp upgrades" },
+      "Apex 10": { "hp": 16000, "buffs": "+25 attack, +3 hp upgrades" },
+      "Apex 15": { "hp": 19000, "buffs": "+35 attack, +4 hp upgrades" },
+      "Apex 20": { "hp": 22000, "buffs": "+45 attack, +5 hp upgrades" }
+    }
+  }
+}
