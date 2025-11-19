@@ -1,0 +1,11 @@
+{
+  "Warspite": {
+    "Warspite - Standard": {
+      "Base Model": { "hp": 10000, "buffs": "" },
+      "Apex 5": { "hp": 14000, "buffs": "+20 attack, +2 hp upgrades" },
+      "Apex 10": { "hp": 17000, "buffs": "+30 attack, +3 hp upgrades" },
+      "Apex 15": { "hp": 20000, "buffs": "+40 attack, +4 hp upgrades" },
+      "Apex 20": { "hp": 24000, "buffs": "+50 attack, +5 hp upgrades" }
+    }
+  }
+}
