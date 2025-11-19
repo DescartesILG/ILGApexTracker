@@ -1,0 +1,18 @@
+{
+  "Quaoar": {
+    "Quaoar A - Railgun Type": {
+      "Base Model": { "hp": 7000, "buffs": "" },
+      "Apex 5": { "hp": 10500, "buffs": "+15 attack, +2 hp upgrades" },
+      "Apex 10": { "hp": 13000, "buffs": "+20 attack, +3 hp upgrades" },
+      "Apex 15": { "hp": 15500, "buffs": "+25 attack, +4 hp upgrades" },
+      "Apex 20": { "hp": 18500, "buffs": "+30 attack, +5 hp upgrades" }
+    },
+    "Quaoar B - Torpedo Type": {
+      "Base Model": { "hp": 6800, "buffs": "" },
+      "Apex 5": { "hp": 10000, "buffs": "+15 torpedo, +2 hp upgrades" },
+      "Apex 10": { "hp": 12500, "buffs": "+20 torpedo, +3 hp upgrades" },
+      "Apex 15": { "hp": 15000, "buffs": "+25 torpedo, +4 hp upgrades" },
+      "Apex 20": { "hp": 18000, "buffs": "+30 torpedo, +5 hp upgrades" }
+    }
+  }
+}
