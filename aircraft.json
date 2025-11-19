@@ -1,0 +1,11 @@
+{
+  "Mistral": {
+    "Mistral - Standard": {
+      "Base Model": { "hp": 6500, "buffs": "" },
+      "Apex 5": { "hp": 9500, "buffs": "+10 attack, +2 hp upgrades" },
+      "Apex 10": { "hp": 12000, "buffs": "+15 attack, +3 hp upgrades" },
+      "Apex 15": { "hp": 14500, "buffs": "+20 attack, +4 hp upgrades" },
+      "Apex 20": { "hp": 17000, "buffs": "+25 attack, +5 hp upgrades" }
+    }
+  }
+}
