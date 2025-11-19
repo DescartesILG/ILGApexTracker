@@ -1,0 +1,11 @@
+{
+  "Solar Whale": {
+    "Solar Whale - Standard": {
+      "Base Model": { "hp": 12000, "buffs": "" },
+      "Apex 5": { "hp": 16000, "buffs": "+10 support, +2 hp upgrades" },
+      "Apex 10": { "hp": 19000, "buffs": "+20 support, +3 hp upgrades" },
+      "Apex 15": { "hp": 22000, "buffs": "+30 support, +4 hp upgrades" },
+      "Apex 20": { "hp": 26000, "buffs": "+40 support, +5 hp upgrades" }
+    }
+  }
+}
